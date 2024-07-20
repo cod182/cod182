@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Codie</h1>
 <h3 align="center">A passionate frontend developer from the UK</h3>
 
-- 👨‍💻 All of my projects are available at [codie.uk](codie.uk)
+- 👨‍💻 All of my projects are available at [https://codie.uk](codie.uk)
 
 - 📫 How to reach me **hello@codie.uk**
 
